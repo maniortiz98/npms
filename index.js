@@ -5,4 +5,5 @@ module.exports = {
     holaPersonalizado:function(nombre){
         console.log(`Hola ${nombre}`);
     }
+    
 }
